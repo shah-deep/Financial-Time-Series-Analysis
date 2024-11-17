@@ -1,4 +1,12 @@
-# Financial Time Series Analysis
+# Stock Forecasting
+
+Forcast stock closing price using ARIMA.
+
+Code: [Stock_Forecasting.ipynb](./Stock_Forecasting.ipynb)
+
+
+
+# Time Series Analysis Practice
 
 Learnings from a course
 
